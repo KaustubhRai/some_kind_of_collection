@@ -52,6 +52,82 @@
     {
       "name": "X-Permitted-Cross-Domain-Policies",
       "value": "none"
-    }
+    },
+    {
+      "name": "X-XSS-Protection",
+      "value": "1; mode=block"
+    },
+    {
+      "name": "Expect-CT",
+      "value": "enforce, max-age=30"
+    },
+    {
+      "name": "X-Permitted-Cross-Domain-Policies",
+      "value": "none"
+    },
+    {
+      "name": "\Report-To\","\NEL\"
+      "value": "{ "group": "endpoint-1", "max_age": 10886400, "endpoints": [{ "url": "https://example.com/reports" }], "include_subdomains": true}"
+    },
+    {
+      "name": "",
+      "value": ""
+    },
+    {
+      "name": "",
+      "value": ""
+    },
+    {
+      "name": "",
+      "value": ""
+    },
+    {
+      "name": "",
+      "value": ""
+    },
+    {
+      "name": "",
+      "value": ""
+    },
+    {
+      "name": "",
+      "value": ""
+    },
+    {
+      "name": "",
+      "value": ""
+    },
+    {
+      "name": "",
+      "value": ""
+    },
+    {
+      "name": "",
+      "value": ""
+    },
+    {
+      "name": "",
+      "value": ""
+    },
+    {
+      "name": "",
+      "value": ""
+    },
+    {
+      "name": "",
+      "value": ""
+    },
+    {
+      "name": "",
+      "value": ""
+    },
+    {
+      "name": "",
+      "value": ""
+    },
+    {
+      "name": "",
+      "value": ""
+    },
   ]
 }
